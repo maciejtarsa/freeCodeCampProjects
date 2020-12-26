@@ -1,5 +1,5 @@
 # freeCodeCampProjects
-Implementation of project from freeCodeCamp courses
+Implementation of projects from freeCodeCamp courses
 
-Projects completed:
+Data Analysis with Python Projects:
 - Mean-Variance-Standard Deviation Calculator
